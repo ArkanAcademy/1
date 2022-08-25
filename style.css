@@ -341,10 +341,11 @@ p {
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-	width: 80%;
+	width: 100%;
 	margin: 20px auto;
 	overflow: hidden;
 	border-radius: 10px;
+	
 }
 #projects .project-info {
 	padding: 30px;
